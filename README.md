@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Rishab</h1>
 <h3 align="center">Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-reprisal&label=Profile%20views&color=0e75b6&style=flat" alt="im-reprisal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-reprisal" alt="im-reprisal" /></a> </p>
-<p align="left"> <a href="https://twitter.com/nishant_rishab" target="blank"><img src="https://img.shields.io/twitter/follow/nishant_rishab?logo=twitter&style=for-the-badge" alt="nishant_rishab" /></a> </p>
 - 🔭 I’m currently working on [M-Fine](https://github.com/Kingbond470/MFine)
 
 - 🌱 I’m currently learning **MVVM Artitechture**
@@ -39,4 +35,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-reprisal&show_icons=true&locale=en" alt="im-reprisal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-reprisal&" alt="im-reprisal" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-reprisal&label=Profile%20views&color=0e75b6&style=flat" alt="im-reprisal" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-reprisal" alt="im-reprisal" /></a> </p>
+
