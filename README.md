@@ -43,7 +43,7 @@ Connect with me:
 
 ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/im-reprisal/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=im-reprisal">
 </a>
 <a href="https://github.com/im-reprisal?tab=followers"><img src="https://img.shields.io/github/followers/im-reprisal?label=Followers&style=social" alt="GitHub Badge"></a>
