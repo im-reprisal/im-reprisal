@@ -21,12 +21,7 @@
 
 🚀 Languages and Tools:
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-Connect with me:
-<p align="left">
-<a href="https://twitter.com/nishant_rishab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_rishab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nishant-rishab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-rishab" height="30" width="40" /></a>
-<a href="https://instagram.com/thenishantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenishantech" height="30" width="40" /></a>
-</p>
+
 📊 My Github Stats
 
   <br/>
@@ -38,8 +33,14 @@ Connect with me:
 <br/>
 
 <a href="https://github.com/im-reprisal/github-readme-activity-graph"><img alt="Nishant Rishab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=im-reprisal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
 
-<br/>
-<br/>
+Connect with me:
+<p align="left">
+<a href="https://twitter.com/nishant_rishab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_rishab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishant-rishab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-rishab" height="30" width="40" /></a>
+<a href="https://instagram.com/thenishantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenishantech" height="30" width="40" /></a>
+</p>
 
 
