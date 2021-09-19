@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/im-reprisal?tab=repositories](https://github.com/im-reprisal?tab=repositories) 
 
-- 💬 Ask me about **Java,Kotlin,Data Structure and Algorithm**
-
 - 📫 How to reach me **imreprisal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
