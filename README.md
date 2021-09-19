@@ -35,7 +35,6 @@
 <a href="https://github.com/im-reprisal/github-readme-activity-graph"><img alt="Nishant Rishab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=im-reprisal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
-
 Connect with me:
 <p align="left">
 <a href="https://twitter.com/nishant_rishab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_rishab" height="30" width="40" /></a>
@@ -43,4 +42,10 @@ Connect with me:
 <a href="https://instagram.com/thenishantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenishantech" height="30" width="40" /></a>
 </p>
 
+❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=im-reprisal">
+</a>
+<a href="https://github.com/im-reprisal?tab=followers"><img src="https://img.shields.io/github/followers/im-reprisal?label=Followers&style=social" alt="GitHub Badge"></a>
 
