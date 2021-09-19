@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Rishab</h1>
 <h3 align="center">Android developer from India</h3>
 
-- 🔭 I’m currently working on [M-Fine](https://github.com/Kingbond470/MFine)
+- 🔭 I’m currently working on [M-Fine Clone](https://github.com/Kingbond470/MFine)
 
 - 🌱 I’m currently learning **MVVM Artitechture**
 
