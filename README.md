@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/im-reprisal)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://goofy-bell-c54a39.netlify.app)**
 
 - 📫 How to reach me **imreprisal@gmail.com**
 
