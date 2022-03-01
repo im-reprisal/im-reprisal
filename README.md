@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **MVVM Artitechture.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📄 My experiences [Resume]()
+- 📄 My experiences [Resume](https://drive.google.com/file/d/1DZSeiEM9XTg4MlI5cUiYKeB3pqzvGS7A/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://goofy-bell-c54a39.netlify.app)**
 
