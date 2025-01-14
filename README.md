@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://goofy-bell-c54a39.netlify.app)**
 
-- 📫 How to reach me **imreprisal@gmail.com**
+- 📫 How to reach me **nc1101997@gmail.com**
 
 - ⚡ Fun fact **I play games.**
 
