@@ -10,7 +10,7 @@
 - 🌱 I have worked for renowned client Expedia, Inc. and Ford Motor Company. Skilled in Android XML, debugging and optimizing Android apps and also skilled in latest Jetpack Compose and Graphql technologies**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📄 My experiences [Resume](https://drive.google.com/file/d/1DZSeiEM9XTg4MlI5cUiYKeB3pqzvGS7A/view?usp=sharing)
+- 📄 My experiences [Resume](https://drive.google.com/file/d/10x4e9OuMw6T93uw5AyIk5jj2UZg1mkC1/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://goofy-bell-c54a39.netlify.app)**
 
