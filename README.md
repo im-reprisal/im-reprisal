@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **[Globallogic](https://www.globallogic.com/)**
 
-- 🌱 I’m currently learning **MVVM Artitechture.**
+- 🌱 I have worked for renowned client Expedia, Inc. and Ford Motor Company. Skilled in Android XML, debugging and optimizing Android apps and also skilled in latest Jetpack Compose and Graphql technologies**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📄 My experiences [Resume](https://drive.google.com/file/d/1DZSeiEM9XTg4MlI5cUiYKeB3pqzvGS7A/view?usp=sharing)
